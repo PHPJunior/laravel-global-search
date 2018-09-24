@@ -12,7 +12,7 @@ return [
 ];
 ```
 
-#Usage
+### Usage
 
 First <code>PhpJunior\LaravelGlobalSearch\Traits\GlobalSearchable</code> trait to models
 
