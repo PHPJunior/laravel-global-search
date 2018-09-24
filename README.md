@@ -1,2 +1,2 @@
-# laravel-global-search
-Laravel Global Search
+# Laravel Global Search
+Laravel Global Search 
