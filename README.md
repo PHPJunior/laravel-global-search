@@ -72,6 +72,7 @@ class User extends Authenticatable
         'email' => 'asc'
     ];
 
+    // Optional
     protected $searchQuery = [
         [
             'method' => 'where',
